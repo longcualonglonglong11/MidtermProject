@@ -1,2 +1,2 @@
 # MidtermProject
-Newest update is MidtermProject Folder
+Newest update is Midterm Mobile Folder
